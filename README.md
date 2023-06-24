@@ -7,8 +7,8 @@ Um avião com membros de uma comitiva de estudos cai numa ilha localizada no Tri
 
 ## Grupo: By The Code
 ## Integrantes: 
-Eduardo Ribeiro Torquato
-Eliana Moura de Lima
-Nathalia Narumi Nakamura
-Paulo Garcia Santos
+Eduardo Ribeiro Torquato \
+Eliana Moura de Lima \
+Nathalia Narumi Nakamura \
+Paulo Garcia Santos \
 Vinicius Araujo da Silveira    
